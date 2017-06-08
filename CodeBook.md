@@ -1,7 +1,7 @@
 ## Download the data using he URL provided with the assignment 
 ## Read the following data:
-* X_test.txt
-1.test1 <- read.table("C:/Users/hzarea/Desktop/Getting and Cleaning Data/UCI HAR Dataset/test/X_test.txt")
+### X_test.txt
+test1 <- read.table("C:/Users/hzarea/Desktop/Getting and Cleaning Data/UCI HAR Dataset/test/X_test.txt")
 * Y_test.txt
 test2 <- read.table("C:/Users/hzarea/Desktop/Getting and Cleaning Data/UCI HAR Dataset/test/Y_test.txt")
 * Subject_test.txt
