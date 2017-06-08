@@ -1,5 +1,5 @@
-### Download the data using he URL provided with the assignment 
-### Read the following data:
+## Download the data using he URL provided with the assignment 
+## Read the following data:
 * X_test.txt
 1.test1 <- read.table("C:/Users/hzarea/Desktop/Getting and Cleaning Data/UCI HAR Dataset/test/X_test.txt")
 * Y_test.txt
